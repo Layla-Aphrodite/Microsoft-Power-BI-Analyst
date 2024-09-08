@@ -37,11 +37,11 @@ That’s correct! Microsoft Excel is automatically aware of the type of content 
 True or False: You need to sort a staff spreadsheet alphabetically by department, and then sort each department by join date with the most recent appearing first. You can complete this task by first using the Sort A-Z shortcut on the Department Name column and then the Sort Newest to Oldest shortcut on the Join Date column.
 
 
-- [X]True
+- [X] True
 
 
 
-- [ ]False
+- [ ] False
 
 > [!NOTE]
 Incorrect
@@ -54,15 +54,15 @@ Not quite. Please review the video
 You want to create a new name for a cell, but you are not sure if a colleague has already assigned names to the cells. How would you check what names are already in use across the whole workbook?
 
 
-- [X]Select the drop-down arrow on the right of the Name box in the top left of the Excel work area.
+- [X] Select the drop-down arrow on the right of the Name box in the top left of the Excel work area.
 
 
 
-- [ ]Select each worksheet separately and then click on the drop-down arrow on the right of the Name box in the top left of the Excel work area.
+- [ ] Select each worksheet separately and then click on the drop-down arrow on the right of the Name box in the top left of the Excel work area.
 
 
 
-- [ ]Select the Name Manager choice on the Home ribbon.
+- [ ] Select the Name Manager choice on the Home ribbon.
 
 > [!NOTE]
 Correct
@@ -74,15 +74,15 @@ That’s correct! Names of assigned cells are visible from anywhere in the workb
 You have frozen the top row (Row 1) of the screen to make your spreadsheet easier to read. What cell will your cursor move to when you move to the top of the worksheet using the Control + Home shortcut?
 
 
-- [X]A2
+- [X] A2
 
 
 
-- [ ]A3
+- [ ] A3
 
 
 
-- [ ]A1
+- [ ] A1
 
 
 > [!NOTE]
@@ -94,15 +94,15 @@ That’s correct! The keyboard combination Control + Home would normally move th
 What appears on the Formula bar when you enter a calculation in a worksheet cell?
 
 
-- [ ]The result.
+- [ ] The result.
 
 
 
-- [X]The calculation.
+- [X] The calculation.
 
 
 
-- [ ]The calculation and the result.
+- [ ] The calculation and the result.
 
 > [!NOTE]
 Correct
@@ -114,18 +114,18 @@ That’s correct! When you create a calculation, the result will appear in the c
 In larger worksheets, it can be useful to hide columns that are not required. This allows you to scroll through the content more quickly. How does Excel indicate on screen that there are columns hidden in a worksheet? Select all that apply.
 
 
-- [ ]Some column initials are shaded in a different background color.
+- [ ] Some column initials are shaded in a different background color.
 
 
 
-- [X]There are two vertical lines or a darker vertical line between two of the column initials.
+- [X] There are two vertical lines or a darker vertical line between two of the column initials.
 
 > [!NOTE]
 Correct
 That's correct. In Excel for windows, the location of any hidden columns is indicated with two vertical lines between two column initials. In Excel on a mac, it will display a darker vertical line between two column initials.
 
 
-- [X]There is a gap in the sequence of initial letters at the top of the screen.
+- [X] There is a gap in the sequence of initial letters at the top of the screen.
 
 
 > [!NOTE]
@@ -137,15 +137,15 @@ That’s correct! Excel will always maintain the full alphabet sequence for the 
 You type a supplier name into cell C2 in your spreadsheet. You want to use one of Excel’s quick entry features to copy the same supplier name into all cells down to C100. What shape should the mouse pointer be?
 
 
-- [ ]An arrow.
+- [ ] An arrow.
 
 
 
-- [X]A narrow black cross.
+- [X] A narrow black cross.
 
 
 
-- [ ]A white cross.
+- [ ] A white cross.
 
 > [!NOTE]
 Correct
@@ -156,15 +156,15 @@ That’s correct! This feature is called Autofill. The mouse pointer must appear
 You need to present a worksheet to your colleague. However, columns D and E contain confidential data that they cannot be privy to. What option on the Home ribbon can you use to hide these columns during the presentation?
 
 
-- [ ]Delete drop-down. 
+- [ ] Delete drop-down. 
 
 
 
-- [ ]Insert drop-down. 
+- [ ] Insert drop-down. 
 
 
 
-- [X]Format drop-down.
+- [X] Format drop-down.
 
 > [!NOTE]
 Correct
@@ -175,15 +175,15 @@ That’s correct! The options to hide rows and columns are formatting choices, s
 You manually adjust the width of column A and then type 958697100T into cell A2. However, the entry still displays across cell B2, which is currently empty. What is the visual effect on the entry in cell A2 when you enter data into cell B2?
 
 
-- [X]The content will only be partially displayed and some of the entry will be hidden by the content in B2.
+- [X] The content will only be partially displayed and some of the entry will be hidden by the content in B2.
 
 
 
-- [ ]The content will be replaced by crosshatch symbols as the column is too narrow to display it fully.
+- [ ] The content will be replaced by crosshatch symbols as the column is too narrow to display it fully.
 
 
 
-- [ ]The content will automatically “wrap around” so that some of the heading will be brought down to a new line.
+- [ ] The content will automatically “wrap around” so that some of the heading will be brought down to a new line.
 
 > [!NOTE]
 Correct
